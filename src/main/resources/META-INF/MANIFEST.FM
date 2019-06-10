@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Built-By: Andrey.Novak
+Build-Jdk: 1.8.0_191
+Main-Class: ua.com.profile.UserProfile
